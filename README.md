@@ -129,9 +129,9 @@ The model might be facing an issue of high variance as we are able to achieve an
 ## REFERENCES
 
 1. Google Images
-2. Kaggle, Face Mask Detection 12K Images Dataset(https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset).
-3. SMOTE: Synthetic Minority Over-sampling Technique(https://arxiv.org/abs/1106.1813).
-4. Deep Learning for image classification w/ implementation in PyTorch(https://towardsdatascience.com/convolutional-neural-network-for-image-classification-with-implementation-on-python-using-pytorch-7b88342c9ca9).
+2. [Kaggle, Face Mask Detection 12K Images Dataset](https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset).
+3. [SMOTE: Synthetic Minority Over-sampling Technique](https://arxiv.org/abs/1106.1813).
+4. [Deep Learning for image classification w/ implementation in PyTorch](https://towardsdatascience.com/convolutional-neural-network-for-image-classification-with-implementation-on-python-using-pytorch-7b88342c9ca9).
        
        
  ## INSTRUCTIONS
@@ -142,8 +142,7 @@ The model might be facing an issue of high variance as we are able to achieve an
  
  
  Additionally, there is 
- - Jupyter notebook - FinalCNNCapstone.ipynb
- - (https://github.com/gatisonani/FaceMasKDetection/blob/d91462ae6ac1750b95469c369acb675fbed35924/FinalCNNCapstone.ipynb)
- -  Html file of Jupyter notebook - FinalCNNCapstone.html()
- -  Saved Model - FinalmaskModel.pt()
+ - [Jupyter notebook - FinalCNNCapstone.ipynb](https://github.com/gatisonani/FaceMasKDetection/blob/d91462ae6ac1750b95469c369acb675fbed35924/FinalCNNCapstone.ipynb)
+ -  [Html file of Jupyter notebook - FinalCNNCapstone.html](https://github.com/gatisonani/FaceMasKDetection/blob/d91462ae6ac1750b95469c369acb675fbed35924/FinalCNNCapstone.html)
+ -  [Saved Model - FinalmaskModel.pt](https://github.com/gatisonani/FaceMasKDetection/blob/d91462ae6ac1750b95469c369acb675fbed35924/FinalmaskModel.pt)
  
