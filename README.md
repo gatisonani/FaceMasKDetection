@@ -67,7 +67,7 @@ I have used ImageLoader for file and image reading, so if you want to run the no
 
 >Dataset is divided in to 2 parts Test and Train:
 
-![image](https://user-images.githubusercontent.com/83024113/181541123-7c63d956-d4e5-49a2-8f3e-71ba945b8846.png)
+<img width="437" alt="image" src="https://user-images.githubusercontent.com/83024113/181547846-104f18f1-34e4-4be6-9f1f-f51aabbab7bf.png">
 
 
 
@@ -95,8 +95,8 @@ A CNN is also known as a Convolution Neural Network(CNN), consisting of several 
 
 ## RESULT AND DISCUSSION
 
-<img width="314" alt="image" src="https://user-images.githubusercontent.com/83024113/181536789-30f0cd50-a5bc-453b-8030-fc610f218e95.png">
-<img width="172" alt="image" src="https://user-images.githubusercontent.com/83024113/181537128-5346cb85-26ec-4a99-abc3-d7722cae40b2.png">
+<img width="380" alt="image" src="https://user-images.githubusercontent.com/83024113/181536789-30f0cd50-a5bc-453b-8030-fc610f218e95.png">
+<img width="380" alt="image" src="https://user-images.githubusercontent.com/83024113/181537128-5346cb85-26ec-4a99-abc3-d7722cae40b2.png">
 
 	Predicted Label
 
