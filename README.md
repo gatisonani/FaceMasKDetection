@@ -136,9 +136,12 @@ The model might be facing an issue of high variance as we are able to achieve an
        
  ## INSTRUCTIONS
  There are few steps you have to follow to check the prediction.
- Data[]
+ 1.You must install specific software.
+ 2.Data()-download data from the link and upload it into to your drive, change the path in ipynb file to load the data.
+ 3.Install all required libraries in your environment which are listed above.
+ 
  
  Additionally, there is  
- **1.Jupyter notebook - FinalCNNCapstone.ipynb **()
- **2.Html file of Jupyter notebook - FinalCNNCapstone.html**()
- **2.Saved Model - FinalmaskModel.pt**()
+ Jupyter notebook - FinalCNNCapstone.ipynb()
+ Html file of Jupyter notebook - FinalCNNCapstone.html()
+ Saved Model - FinalmaskModel.pt()
