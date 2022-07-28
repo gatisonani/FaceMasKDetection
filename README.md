@@ -1,3 +1,3 @@
 # FaceMasKDetection
 
-![alt text](https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png)
+![alt text](https://5.imimg.com/data5/PI/FD/NK/SELLER-5866466/images-500x500.jpg)
