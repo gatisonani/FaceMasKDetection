@@ -15,10 +15,12 @@
 - Roadmap
 - Preprocessing
 - Results and Discussion
-- Refrences
+- Conclusion
+- References
+- Instructions
 
  ## ABSTRACT
-As we know that Covid-19 is almost ended and majority of the countries have removed the restriction to wear mask at every places.After ending the pandemic what is the use of this model everyone think that. Nowadays ,indusrilisation have changed the world at global level in each and every field such as healthcare , chemical ,technology , and many more. Visit to the madicap company ,which is making various medicines.The idea came from that visit that surgical mask is mandatory at that place becuase their employers deal with various substance which will affect their body in bad way if that substance directly goes to their body.What is more, they have to keep security person to check each and every person that wearing mask or not? Creating the autonomus model using the various machine learning techniques will reduce the burden of doing manual work and considering the health of their workers will prove best solution for them.
+As we know that Covid-19 is almost ended and majority of the countries have removed the restriction to wear mask at every places.After ending the pandemic what is the use of this model everyone think that. Nowadays ,indusrilization have changed the world at global level in each and every field such as healthcare , chemical ,technology , and many more. Visit to the madicap company ,which is making various medicines.The idea came from that visit that surgical mask is mandatory at that place becuase their employers deal with various substance which will affect their body in bad way if that substance directly goes to their body.What is more, they have to keep security person to check each and every person that wearing mask or not? Creating the autonomus model using the various machine learning techniques will reduce the burden of doing manual work and considering the health of their workers will prove best solution for them.
 
 
  ## RESEARCH QUESTIONS
@@ -65,7 +67,7 @@ Dataset is maily collected from google images and kaggle dataset according to re
 
 I have used ImageLoader for file and image reading, so if you want to run the notebook you have to change the file location accordingly. You can do same on google colab to by uploading and mounting files on drive.
 
->Dataset is divided in to 2 parts Test and Train:
+>Dataset is divided in to 2 parts Train adn Train:
 
 <img width="437" alt="image" src="https://user-images.githubusercontent.com/83024113/181547846-104f18f1-34e4-4be6-9f1f-f51aabbab7bf.png">
 
@@ -81,6 +83,7 @@ flowchart TD
     E[DEFINE_MODEL]-->F[TRAIN_MODEL];
     F[TRAIN_MODEL]-->G[TEST_ACCURACY];
     G[TEST_ACCURACY]-->H[DOWNLOAD_MODEL];
+    H[DOWNLOAD_MODEL]-->I[DEPLOY_MODEL];
 ```
 ## PREPROCESSING
 I have used convolution neural netowork to define model and test the model.
@@ -94,13 +97,22 @@ A CNN is also known as a Convolution Neural Network(CNN), consisting of several 
 >[HOW CONVOLUTION NEURAL NETWORK WORKS](https://github.com/gatisonani/FaceMasKDetection/blob/master/How_Convolution_Neural_Network_works.pdf).
 
 ## RESULT AND DISCUSSION
->Accuracy plot is shown below after running each epoch.
+
+#### **Graphical representation of training and testing percentage of model.**
+
+>Plot shows accuracy after running each epoch.
+
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/83024113/181536789-30f0cd50-a5bc-453b-8030-fc610f218e95.png">
 
->Evaluation
-In this multiclass classification I have classified the images in five different categories of masks, that’s N95, N95 with valve, No Mask, Surgical masks and finally the cloth masks. For that I have trained the model using previously mentioned parameters and hyper parameters. For testing, I have selected 16,542 different images which are scattered amongst those five classes. We have achieved the accuracy of almost 83%% with accuracy, precision and F1-score mentioned in the metrics table below along with the confusion matrix.
+####  **Evaluation**
+
+
+>In this multiclass classification I have classified the images in five different categories of masks, that’s N95, N95 with valve, No Mask, Surgical masks and finally the cloth masks. For that I have trained the model using previously mentioned parameters and hyper parameters. For testing, I have selected 16,542 different images which are scattered amongst those five classes. We have achieved the accuracy of almost 83%% with accuracy, precision and F1-score mentioned in the metrics table below along with the confusion matrix.
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/83024113/181537128-5346cb85-26ec-4a99-abc3-d7722cae40b2.png">
 
+
+
+>Matrics table with accuracy,precision ,F1 score, and recall.
 
 | Matric    | Score |
 | --------- | ----- |
@@ -110,11 +122,19 @@ In this multiclass classification I have classified the images in five different
 | Recall    | 0.73  |
 
 
+## CONCLUSION
 
+The model might be facing an issue of high variance as we are able to achieve an accuracy of 93% during the training period but it is providing around 81% accuracy for the test dataset. It is relatively good however we can improve it by following certain approaches such as regularization, early stopping and cross validation.
 
+## REFERENCES
 
-
+1. Google Images
+2. Kaggle, Face Mask Detection 12K Images Dataset(https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset).
+3. SMOTE: Synthetic Minority Over-sampling Technique(https://arxiv.org/abs/1106.1813).
+4. Deep Learning for image classification w/ implementation in PyTorch(https://towardsdatascience.com/convolutional-neural-network-for-image-classification-with-implementation-on-python-using-pytorch-7b88342c9ca9).
        
        
-       
+ ## INSTRUCTIONS
+ 
+ Additionally, there is  **Jupyter notebook - Part1_AAI.ipynb **, **Saved Model - maskModel.pt**, **Jupyter Notebook of the saved model - Saved_Model_Testing.ipynb** and **Expectations of originality form**
  
