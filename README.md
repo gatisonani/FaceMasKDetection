@@ -22,6 +22,9 @@
  ## ABSTRACT
 As we know that Covid-19 is almost ended and majority of the countries have removed the restriction to wear mask at every places.After ending the pandemic what is the use of this model everyone think that. Nowadays ,indusrilization have changed the world at global level in each and every field such as healthcare , chemical ,technology , and many more. Visit to the madicap company ,which is making various medicines.The idea came from that visit that surgical mask is mandatory at that place becuase their employers deal with various substance which will affect their body in bad way if that substance directly goes to their body.What is more, they have to keep security person to check each and every person that wearing mask or not? Creating the autonomus model using the various machine learning techniques will reduce the burden of doing manual work and considering the health of their workers will prove best solution for them.
 
+ ## ABOUT PROJECT
+This project that I created will present dataset to detect the face masks.Collected the data from various sources with different mask catergories.Dataset is used to train and test the machine learning model.there are certain images in our dataset from various backgorund , image from front face and side by side.
+
 
  ## RESEARCH QUESTIONS
  - Person is wearing mask or not?
@@ -31,8 +34,6 @@ As we know that Covid-19 is almost ended and majority of the countries have remo
  <img width="234" alt="image" src="https://user-images.githubusercontent.com/83024113/181513129-a6b4546f-6709-4ff2-a37d-41e3308fb334.png">
 
  
- ## ABOUT PROJECT
-This project that I created will present dataset to detect the face masks.Collected the data from various sources with different mask catergories.Dataset is used to train and test the machine learning model.there are certain images in our dataset from various backgorund , image from front face and side by side.
 
 
 
