@@ -85,6 +85,8 @@ A CNN is also known as a Convolution Neural Network(CNN), consisting of several 
 4. Loss function
 5. Optimizer
 
+>[HOW CONVOLUTION NEURAL NETWORK WORKS](https://github.com/gatisonani/FaceMasKDetection/blob/master/How_Convolution_Neural_Network_works.pdf).
+
 ## RESULT AND DISCUSSION
 
 
