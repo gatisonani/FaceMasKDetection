@@ -137,7 +137,7 @@ The model might be facing an issue of high variance as we are able to achieve an
  ## INSTRUCTIONS
  There are few steps you have to follow to check the prediction.
 1. You must install specific software.
-2. Data()-download data from the link and upload it into to your drive, change the path in ipynb file to load the data.
+2. [Data]()-download data from the link and upload it into to your drive, change the path in ipynb file to load the data.
 3. Install all required libraries in your environment which are listed above.
  
  
