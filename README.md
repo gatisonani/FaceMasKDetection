@@ -135,6 +135,10 @@ The model might be facing an issue of high variance as we are able to achieve an
        
        
  ## INSTRUCTIONS
+ There are few steps you have to follow to check the prediction.
+ Data[]
  
- Additionally, there is  **Jupyter notebook - Part1_AAI.ipynb **, **Saved Model - maskModel.pt**, **Jupyter Notebook of the saved model - Saved_Model_Testing.ipynb** and **Expectations of originality form**
- 
+ Additionally, there is  
+ **1.Jupyter notebook - FinalCNNCapstone.ipynb **()
+ **2.Html file of Jupyter notebook - FinalCNNCapstone.html**()
+ **2.Saved Model - FinalmaskModel.pt**()
