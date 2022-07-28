@@ -142,7 +142,8 @@ The model might be facing an issue of high variance as we are able to achieve an
  
  
  Additionally, there is 
- - Jupyter notebook - FinalCNNCapstone.ipynb(https://github.com/gatisonani/FaceMasKDetection/blob/d91462ae6ac1750b95469c369acb675fbed35924/FinalCNNCapstone.ipynb)
+ - Jupyter notebook - FinalCNNCapstone.ipynb
+ - (https://github.com/gatisonani/FaceMasKDetection/blob/d91462ae6ac1750b95469c369acb675fbed35924/FinalCNNCapstone.ipynb)
  -  Html file of Jupyter notebook - FinalCNNCapstone.html()
  -  Saved Model - FinalmaskModel.pt()
  
