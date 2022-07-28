@@ -102,7 +102,12 @@ In this multiclass classification I have classified the images in five different
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/83024113/181537128-5346cb85-26ec-4a99-abc3-d7722cae40b2.png">
 
 
-
+| Matric    | Score |
+| --------- | ----- |
+| Accuracy  | 0.81  |
+| Precision | 0.65  |
+| F1 Score  | 0.67  |
+| Recall    | 0.73  |
 
 
 
