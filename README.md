@@ -94,11 +94,14 @@ A CNN is also known as a Convolution Neural Network(CNN), consisting of several 
 >[HOW CONVOLUTION NEURAL NETWORK WORKS](https://github.com/gatisonani/FaceMasKDetection/blob/master/How_Convolution_Neural_Network_works.pdf).
 
 ## RESULT AND DISCUSSION
-
+>Accuracy plot is shown below after running each epoch.
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/83024113/181536789-30f0cd50-a5bc-453b-8030-fc610f218e95.png">
+
+>Evaluation
+In this multiclass classification I have classified the images in five different categories of masks, that’s N95, N95 with valve, No Mask, Surgical masks and finally the cloth masks. For that I have trained the model using previously mentioned parameters and hyper parameters. For testing, I have selected 16,542 different images which are scattered amongst those five classes. We have achieved the accuracy of almost 83%% with accuracy, precision and F1-score mentioned in the metrics table below along with the confusion matrix.
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/83024113/181537128-5346cb85-26ec-4a99-abc3-d7722cae40b2.png">
 
-	Predicted Label
+
 
 
 
