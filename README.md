@@ -77,8 +77,14 @@ flowchart TD
     G[TEST_ACCURACY]-->H[DOWNLOAD_MODEL];
 ```
 ## PREPROCESSING
+I have used convolution neural netowork to define model and test the model.
+A CNN is also known as a Convolution Neural Network(CNN), consisting of several different network architectures such as convolution, pooling, normalization, and Perceptron. Each one has different characteristics. 
+1. Convolution Layer
+2. Normlization Layer
+3. Perceptron Network
+4. Loss function
+5. Optimizer
 
-```
 ## RESULT AND DISCUSSION
 
 
