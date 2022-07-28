@@ -65,6 +65,12 @@ Dataset is maily collected from google images and kaggle dataset according to re
 
 I have used ImageLoader for file and image reading, so if you want to run the notebook you have to change the file location accordingly. You can do same on google colab to by uploading and mounting files on drive.
 
+>Dataset is divided in to 2 parts Test and Train:
+
+![image](https://user-images.githubusercontent.com/83024113/181541123-7c63d956-d4e5-49a2-8f3e-71ba945b8846.png)
+
+
+
 ## ROADMAP
 ```mermaid
 flowchart TD
@@ -88,6 +94,14 @@ A CNN is also known as a Convolution Neural Network(CNN), consisting of several 
 >[HOW CONVOLUTION NEURAL NETWORK WORKS](https://github.com/gatisonani/FaceMasKDetection/blob/master/How_Convolution_Neural_Network_works.pdf).
 
 ## RESULT AND DISCUSSION
+
+<img width="314" alt="image" src="https://user-images.githubusercontent.com/83024113/181536789-30f0cd50-a5bc-453b-8030-fc610f218e95.png">
+<img width="172" alt="image" src="https://user-images.githubusercontent.com/83024113/181537128-5346cb85-26ec-4a99-abc3-d7722cae40b2.png">
+
+	Predicted Label
+
+
+
 
 
 
